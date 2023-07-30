@@ -23,6 +23,10 @@
   - [Chinese-LLaVA-Chinese-Llama-2-7B](https://huggingface.co/LinkSoul/Chinese-LLaVA-Cllama2)
   - [Chinese-LLaVA-Baichuan-7B](https://huggingface.co/LinkSoul/Chinese-LLaVA-Baichuan)
 
+- 语言模型:
+  - [Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b)
+  - [Baichuan-7B](https://huggingface.co/baichuan-inc/Baichuan-7B)
+
 - 数据集：[Chinese-LLaVA-Vision-Instructions](https://huggingface.co/datasets/LinkSoul/Chinese-LLaVA-Vision-Instructions)
 
 ## 环境安装
