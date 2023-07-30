@@ -1,6 +1,6 @@
 # Chinese LLaVA
 
-[![](https://img.shields.io/badge/Chinese-LLaVA-blue)](ttps://huggingface.co/spaces/LinkSoul/Chinese-LLaVA) [![](https://img.shields.io/badge/Commercial-Support-blue)](ttps://huggingface.co/spaces/LinkSoul/Chinese-LLaVA) [![](https://img.shields.io/badge/License-Apache_v2-blue)](ttps://huggingface.co/spaces/LinkSoul/Chinese-LLaVA/blob/main/LICENSE) [![](https://img.shields.io/badge/HuggingFace-Live_Demo-green)](https://huggingface.co/spaces/LinkSoul/Chinese-LLaVA) [![](https://img.shields.io/badge/Datasets-Chinese_Vision_Instructions-blue)](https://huggingface.co/spaces/LinkSoul/Chinese-LLaVA)
+[![](https://img.shields.io/badge/Chinese-LLaVA-blue)](https://huggingface.co/spaces/LinkSoul/Chinese-LLaVA) [![](https://img.shields.io/badge/Commercial-Support-blue)](https://huggingface.co/spaces/LinkSoul/Chinese-LLaVA) [![](https://img.shields.io/badge/License-Apache_v2-blue)](https://github.com/LinkSoul-AI/Chinese-LLaVA/blob/main/LICENSE) [![](https://img.shields.io/badge/HuggingFace-Live_Demo-green)](https://huggingface.co/spaces/LinkSoul/Chinese-LLaVA) [![](https://img.shields.io/badge/Datasets-Chinese_Vision_Instructions-blue)](https://huggingface.co/spaces/LinkSoul/Chinese-LLaVA)
 
 开源，可商用的**中英文双语视觉-语言助手 Chinese-LLaVA 以及中英文视觉 SFT 数据集 Chinese-LLaVA-Vision-Instructions**，支持中英文视觉-文本多模态对话的开源可商用对话模型。
 
