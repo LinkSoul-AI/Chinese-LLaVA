@@ -19,11 +19,11 @@
 
 ## 资源下载
 
-- 模型：
-  - HuggingFace: [Chinese-LLaVA-Chinese-Llama-2-7B](https://huggingface.co/LinkSoul/Chinese-LLaVA-Cllama2)
-  - HuggingFace: [Chinese-LLaVA-Baichuan-7B](https://huggingface.co/LinkSoul/Chinese-LLaVA-Baichuan)
+- HuggingFace模型下载：
+  - [Chinese-LLaVA-Chinese-Llama-2-7B](https://huggingface.co/LinkSoul/Chinese-LLaVA-Cllama2)
+  - [Chinese-LLaVA-Baichuan-7B](https://huggingface.co/LinkSoul/Chinese-LLaVA-Baichuan)
 
-- 百度网盘
+- 百度网盘下载:
   - [Chinese-LLaVA-Chinese-Llama-2-7B](https://pan.baidu.com/s/16e_LEacMy2bqOYanIFWy8Q?pwd=9j61)
 
 - 语言模型:
