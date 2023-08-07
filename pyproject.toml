@@ -3,9 +3,9 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "llasa"
+name = "Chinese_llava"
 version = "1.0.0"
-description = "LLaSA: Large Language and Speech Assistant."
+description = ""
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
@@ -18,7 +18,7 @@ dependencies = [
     "scikit-learn==1.2.2",
     "tokenizers>=0.12.1",
     "torch", "torchvision",
-    "transformers==4.31.0",
+    "transformers==4.28.0.dev0",
     "sentencepiece==0.1.99",
 ]
 
