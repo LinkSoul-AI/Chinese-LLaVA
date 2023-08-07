@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "Chinese_llava"
-version = "1.0.0"
+version = "1.0.1"
 description = ""
 readme = "README.md"
 requires-python = ">=3.8"
@@ -13,12 +13,13 @@ classifiers = [
     "License :: OSI Approved :: Apache Software License",
 ]
 dependencies = [
-    "numpy", "requests",
-    "protobuf", "accelerate",
+    "numpy", "requests", "sentencepiece",
+    "pillow", "regex",
+    "protobuf", "accelerate==0.21.0",
     "scikit-learn==1.2.2",
     "tokenizers>=0.12.1",
     "torch", "torchvision",
-    "transformers==4.28.0.dev0",
+    "transformers==4.31.0",
     "sentencepiece==0.1.99",
 ]
 
