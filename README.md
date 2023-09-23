@@ -35,7 +35,9 @@
   - [Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b)
   - [Baichuan-7B](https://huggingface.co/baichuan-inc/Baichuan-7B)
 
-- 数据集：[Chinese-LLaVA-Vision-Instructions](https://huggingface.co/datasets/LinkSoul/Chinese-LLaVA-Vision-Instructions)
+- 数据集：
+  - HuggingFace Dataset: [Chinese-LLaVA-Vision-Instructions](https://huggingface.co/datasets/LinkSoul/Chinese-LLaVA-Vision-Instructions)
+  - 百度网盘链接：https://pan.baidu.com/s/1-jgINIkW0MxusmJuSif85w?pwd=q62v
 
 ## 环境安装
 ```shell
